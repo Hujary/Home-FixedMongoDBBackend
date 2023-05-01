@@ -1,0 +1,14 @@
+{
+  "name": "backend_visualstudiocode",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.3.0"
+  },
+  "devDependencies": {}
+}
